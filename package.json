@@ -1,0 +1,10 @@
+{
+  "name": "firstgnome",
+  "version": "1.0.0",
+  "description": "this is my first pkg",
+  "main": "index.js",
+  "repository": "https://github.com/github.com/firstgnome.git",
+  "author": "firstgnome",
+  "license": "MIT",
+  "private": false
+}
